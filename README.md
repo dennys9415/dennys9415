@@ -26,6 +26,29 @@ Thank you for visiting my GitHub profile. Feel free to explore my repositories a
 ### Languages and Tools
 ![alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png)
 
+![Alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
+
+![Alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png)
+
+![Alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png)
+
+![Alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)
+
+![Alt text](https://www.clipartmax.com/png/middle/200-2001206_cisco-cisco-high-res-logo.png)
+
+![Alt text](https://www.paymentsjournal.com/wp-content/uploads/2017/10/fortinet-logo.jpg)
+
+![Alt text](https://image.pngaaa.com/753/4173753-middle.png)
+
+![Alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.XgD7tmG1IwqCC-_EbS9HlQHaEC%26pid%3DApi&f=1&ipt=f376b932ae42f344a72b7324ca618579c8788a11cfbda26ee9c2a21a2fda68f5&ipo=images)
+
+![Alt text](https://www.hybridskill.com/wp-content/uploads/2020/08/Jenkins-Main-Image.png)
+
+![Alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.a9EluartZXnMTsYh-07sGAHaHa%26pid%3DApi&f=1&ipt=6d8f36541e2ca10e66d922098d31dbfa4796856ac298d23889b2fabdcdc7d345&ipo=images)
+
+![Alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.2Ro89khbnuDTxEVpm4-gAgHaEQ%26pid%3DApi&f=1&ipt=f1e583fc2dbca6f8587a5926d49aee9662e310a86f5d05a9742587a73b8fe064&ipo=images)
+
+
 <!--
 **dennys9415/dennys9415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
