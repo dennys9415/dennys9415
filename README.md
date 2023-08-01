@@ -24,17 +24,17 @@ Expect to see contributions to open-source projects and collaborations with like
 Thank you for visiting my GitHub profile. Feel free to explore my repositories and don't forget to hit that "Follow" button to stay updated on my latest projects and contributions! 🚀
 
 ### Languages and Tools
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" width="20">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" width="50">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="20">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="20">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="50">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" width="20">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" width="50">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="20">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="50">
 
-<img src="https://1.bp.blogspot.com/-rgYs0cZGUys/TgEEcuVpwFI/AAAAAAAAXLM/f8vE4HynQhk/s320/cisco_systems_logo8.jpg" width="20">
+<img src="https://1.bp.blogspot.com/-rgYs0cZGUys/TgEEcuVpwFI/AAAAAAAAXLM/f8vE4HynQhk/s320/cisco_systems_logo8.jpg" width="50">
 
 <img src="https://www.paymentsjournal.com/wp-content/uploads/2017/10/fortinet-logo.jpg" width="20">
 
@@ -45,7 +45,7 @@ Thank you for visiting my GitHub profile. Feel free to explore my repositories a
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.a9EluartZXnMTsYh-07sGAHaHa%26pid%3DApi&f=1&ipt=6d8f36541e2ca10e66d922098d31dbfa4796856ac298d23889b2fabdcdc7d345&ipo=images" width="20">
 
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.2Ro89khbnuDTxEVpm4-gAgHaEQ%26pid%3DApi&f=1&ipt=f1e583fc2dbca6f8587a5926d49aee9662e310a86f5d05a9742587a73b8fe064&ipo=images" width="20">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.2Ro89khbnuDTxEVpm4-gAgHaEQ%26pid%3DApi&f=1&ipt=f1e583fc2dbca6f8587a5926d49aee9662e310a86f5d05a9742587a73b8fe064&ipo=images" width="50">
 
 
 <!--
