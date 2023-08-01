@@ -46,6 +46,8 @@ Thank you for visiting my GitHub profile. Feel free to explore my repositories a
 
 ![Alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.2Ro89khbnuDTxEVpm4-gAgHaEQ%26pid%3DApi&f=1&ipt=f1e583fc2dbca6f8587a5926d49aee9662e310a86f5d05a9742587a73b8fe064&ipo=images)
 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.2Ro89khbnuDTxEVpm4-gAgHaEQ%26pid%3DApi&f=1&ipt=f1e583fc2dbca6f8587a5926d49aee9662e310a86f5d05a9742587a73b8fe064&ipo=images" width="300">
+
 
 <!--
 **dennys9415/dennys9415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
