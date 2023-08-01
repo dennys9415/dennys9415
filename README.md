@@ -24,6 +24,7 @@
 * [Microsoft Certified: DevOps Engineer Expert](https://www.credly.com/earner/earned/badge/cf06f966-9ce7-4ae8-ac75-56d65bb966c7)
 * [Lifelong Learning](https://www.credly.com/earner/earned/badge/4cb6abba-325d-42f2-924c-51d5387f8574)
 <!--[]()-->
+[NSE 1 Network Security Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php)
 
 ## 🔭 Languages and Tools
 <p align="center">
