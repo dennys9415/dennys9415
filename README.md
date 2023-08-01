@@ -32,10 +32,10 @@
 
 ## 💬 Connect with Me
 
-<div id="badges">
+<!-- <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://www.linkedin.com/in/dcedenor/" alt="LinkedIn Badge"/>
-  </a>
+  </a> -->
   <!-- <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> -->
