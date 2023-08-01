@@ -42,10 +42,7 @@ Thank you for visiting my GitHub profile. Feel free to explore my repositories a
 
 <img src="https://www.hybridskill.com/wp-content/uploads/2020/08/Jenkins-Main-Image.png" width="20">
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.a9EluartZXnMTsYh-07sGAHaHa%26pid%3DApi&f=1&ipt=6d8f36541e2ca10e66d922098d31dbfa4796856ac298d23889b2fabdcdc7d345&ipo=images" width="20">
-
-
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.2Ro89khbnuDTxEVpm4-gAgHaEQ%26pid%3DApi&f=1&ipt=f1e583fc2dbca6f8587a5926d49aee9662e310a86f5d05a9742587a73b8fe064&ipo=images" width="50">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.a9EluartZXnMTsYh-07sGAHaHa%26pid%3DApi&f=1&ipt=6d8f36541e2ca10e66d922098d31dbfa4796856ac298d23889b2fabdcdc7d345&ipo=images" width="20"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.2Ro89khbnuDTxEVpm4-gAgHaEQ%26pid%3DApi&f=1&ipt=f1e583fc2dbca6f8587a5926d49aee9662e310a86f5d05a9742587a73b8fe064&ipo=images" width="50">
 
 
 <!--
