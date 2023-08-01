@@ -34,11 +34,9 @@ Thank you for visiting my GitHub profile. Feel free to explore my repositories a
 
 ![Alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)
 
-![Alt text](https://www.clipartmax.com/png/middle/200-2001206_cisco-cisco-high-res-logo.png)
+![Alt text](https://1.bp.blogspot.com/-rgYs0cZGUys/TgEEcuVpwFI/AAAAAAAAXLM/f8vE4HynQhk/s320/cisco_systems_logo8.jpg)
 
 ![Alt text](https://www.paymentsjournal.com/wp-content/uploads/2017/10/fortinet-logo.jpg)
-
-![Alt text](https://image.pngaaa.com/753/4173753-middle.png)
 
 ![Alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.XgD7tmG1IwqCC-_EbS9HlQHaEC%26pid%3DApi&f=1&ipt=f376b932ae42f344a72b7324ca618579c8788a11cfbda26ee9c2a21a2fda68f5&ipo=images)
 
