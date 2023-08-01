@@ -15,7 +15,7 @@
 🔍 Server Monitoring and Management Guru: Keeping systems running smoothly is a priority for me. 
 
 ## ⚡ Degrees and Certification
-* [CCNA](https://www.credly.com/earner/earned/badge/0bb922d4-b9ae-41e6-881f-cd6fa0a476d1)
+
 * [Microsoft Certified: Azure Fundamentals](https://www.credly.com/earner/earned/badge/93b279c4-234b-400c-8114-84ad3c43f92c)
 * [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/7381652e-2d77-4cd1-b208-61c538c0ad12)
 * [AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://www.credly.com/earner/earned/badge/3ed1cb7d-d752-4ce2-a622-2d9d2668563d)
@@ -23,6 +23,7 @@
 * [Microsoft Certified: Azure Developer Associate](https://www.credly.com/earner/earned/badge/e67efc8c-f208-417f-8daa-1193460acebe)
 * [Microsoft Certified: DevOps Engineer Expert](https://www.credly.com/earner/earned/badge/cf06f966-9ce7-4ae8-ac75-56d65bb966c7)
 * [Lifelong Learning](https://www.credly.com/earner/earned/badge/4cb6abba-325d-42f2-924c-51d5387f8574)
+* [CCNA](https://www.credly.com/earner/earned/badge/0bb922d4-b9ae-41e6-881f-cd6fa0a476d1)
 * [NSE 1 Network Security Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php) Verification Code:CzHfyQB7AM
 * [NSE 2 Network Security Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php) Verification Code: bzyl4RvxYt
 * [NSE 3 Network Security Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php) Verification Code: wlHHN2RUjR
