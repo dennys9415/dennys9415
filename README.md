@@ -23,9 +23,9 @@
 * [Microsoft Certified: Azure Developer Associate](https://www.credly.com/earner/earned/badge/e67efc8c-f208-417f-8daa-1193460acebe)
 * [Microsoft Certified: DevOps Engineer Expert](https://www.credly.com/earner/earned/badge/cf06f966-9ce7-4ae8-ac75-56d65bb966c7)
 * [Lifelong Learning](https://www.credly.com/earner/earned/badge/4cb6abba-325d-42f2-924c-51d5387f8574)
-* [NSE 1 Network Security Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php) Code:CzHfyQB7AM
-* [NSE 2 Network Security Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php) Code: bzyl4RvxYt
-* [NSE 3 Network Security Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php) Code: wlHHN2RUjR
+* [NSE 1 Network Security Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php) Verification Code:CzHfyQB7AM
+* [NSE 2 Network Security Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php) Verification Code: bzyl4RvxYt
+* [NSE 3 Network Security Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php) Verification Code: wlHHN2RUjR
 
 ## 🔭 Languages and Tools
 <p align="center">
