@@ -1,8 +1,8 @@
-## Hi there 👋 I'm Dennys Cedeno
+## Hi there 👋 I'm Dennys Cedeño
 ---
 > DevOps Engineer and Electronic and Telecommunication Enginner
 
-👋 I'm Dennys Cedeno, a passionate individual with a diverse skill set in networking, coding, containerization, Linux administration, and server monitoring and management.
+👋 I'm Dennys Cedeño, a passionate individual with a diverse skill set in networking, coding, containerization, Linux administration, and server monitoring and management.
 
 💻 Networking Enthusiast: I have extensive knowledge and experience in designing, configuring, and troubleshooting various network topologies.
 
